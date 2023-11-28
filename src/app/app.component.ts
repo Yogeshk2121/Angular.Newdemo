@@ -9,5 +9,5 @@ export class AppComponent {
   title = 'myApp';
 
 
-  message:string="welcome to velocity"
+  message:string="welcome to velocity";
 }
